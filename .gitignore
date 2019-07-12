@@ -1,0 +1,10 @@
+#忽略后缀名为.o和.a的文件
+*.pdb
+#忽略名称为Debug的文件
+bin/
+.vs/
+obj/
+Log/
+Great/
+NoUpload/
+Properties/
